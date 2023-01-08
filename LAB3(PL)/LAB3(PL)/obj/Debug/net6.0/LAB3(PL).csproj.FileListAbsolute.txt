@@ -1,0 +1,15 @@
+C:\Users\Professional\source\repos\LAB3(PL)\LAB3(PL)\bin\Debug\net6.0\LAB3(PL).exe
+C:\Users\Professional\source\repos\LAB3(PL)\LAB3(PL)\bin\Debug\net6.0\LAB3(PL).deps.json
+C:\Users\Professional\source\repos\LAB3(PL)\LAB3(PL)\bin\Debug\net6.0\LAB3(PL).runtimeconfig.json
+C:\Users\Professional\source\repos\LAB3(PL)\LAB3(PL)\bin\Debug\net6.0\LAB3(PL).dll
+C:\Users\Professional\source\repos\LAB3(PL)\LAB3(PL)\bin\Debug\net6.0\LAB3(PL).pdb
+C:\Users\Professional\source\repos\LAB3(PL)\LAB3(PL)\obj\Debug\net6.0\LAB3(PL).csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\LAB3(PL)\LAB3(PL)\obj\Debug\net6.0\LAB3(PL).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\LAB3(PL)\LAB3(PL)\obj\Debug\net6.0\LAB3(PL).AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\LAB3(PL)\LAB3(PL)\obj\Debug\net6.0\LAB3(PL).AssemblyInfo.cs
+C:\Users\Professional\source\repos\LAB3(PL)\LAB3(PL)\obj\Debug\net6.0\LAB3(PL).csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\LAB3(PL)\LAB3(PL)\obj\Debug\net6.0\LAB3(PL).dll
+C:\Users\Professional\source\repos\LAB3(PL)\LAB3(PL)\obj\Debug\net6.0\refint\LAB3(PL).dll
+C:\Users\Professional\source\repos\LAB3(PL)\LAB3(PL)\obj\Debug\net6.0\LAB3(PL).pdb
+C:\Users\Professional\source\repos\LAB3(PL)\LAB3(PL)\obj\Debug\net6.0\LAB3(PL).genruntimeconfig.cache
+C:\Users\Professional\source\repos\LAB3(PL)\LAB3(PL)\obj\Debug\net6.0\ref\LAB3(PL).dll
